@@ -1,0 +1,19 @@
+{
+  "name": "amk-monit-plugin",
+  "version": "0.0.0",
+  "description": "plugin for easy monitoring endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amkjs/amk-monit-plugin.git"
+  },
+  "author": "deluss-c",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amkjs/amk-monit-plugin/issues"
+  },
+  "homepage": "https://github.com/amkjs/amk-monit-plugin#readme"
+}
