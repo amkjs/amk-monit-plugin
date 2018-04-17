@@ -23,8 +23,7 @@ module.exports = {
 		'object-shorthand': 2,
 		quotes: ['error', 'single'],
 		'no-buffer-constructor': 2,
-		'linebreak-style': 2,
-		'chai-friendly/no-unused-expressions': 2
+		'linebreak-style': 2
 	},
 	globals: {
 		require: false,
@@ -36,6 +35,5 @@ module.exports = {
 		node: true,
 		mocha: true,
 		es6: true
-	},
-	plugins: ['chai-friendly']
+	}
 };
